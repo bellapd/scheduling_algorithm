@@ -1,1 +1,1 @@
-# Scheduling-Algorithm
+# Scheduling Algorithm
